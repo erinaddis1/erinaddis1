@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...erin.addis@drexel.edu
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I have two labs (chocolate and black)
--->
+-->My favorite search engine is:  [knitting_chart](https://github.com/jamesmahler/knitting_chart).
+My second favorite search engine is:  [knitscape](https://github.com/knitscape/knitscape).
